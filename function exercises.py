@@ -8,6 +8,7 @@ def checker(x):
 number=int(input("enter a number"))
 result=checker(number)
 print("your number is",result)
+#make a programme using functions that tells the area of the rectangle 
 def area(w,h):#w=width and H=height
     return w*h
 width=int(input("please enter the width of rectangle in centimetres"))
