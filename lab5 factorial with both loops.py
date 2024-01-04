@@ -12,7 +12,7 @@ else:
 print("the factorial of",n,"is",s)
 
 
-
+#using while loop
 a=int(input("number=?,whose factorial you want"))
 factorial=1
 if a<0:
